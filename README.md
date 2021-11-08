@@ -1,2 +1,4 @@
 # Jupyter_Notebooks
-Kaggle &amp; ML
+
+Sample Jupyter Notebooks for Kaggle Competitions
+
